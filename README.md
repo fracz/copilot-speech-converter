@@ -1,7 +1,7 @@
 # CoPilot speech (voice) files converter (.ogg files <-> .inx and .dat files)
 
 
-It was really simple before CoPilot 8.2 - all voices were just sets of .ogg sound files and if you wanted to change some of them - you just replaced sound files with desired ones.
+It was really simple before CoPilot 8.2 - all voices were just sets of `.ogg` sound files and if you wanted to change some of them - you just replaced sound files with desired ones.
 
 Since CoPilot 8.2, all voices are packed into `.dat` and `.inx` files. With this simple project you can convert your voices from one method to another.
 
